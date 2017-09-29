@@ -34,7 +34,7 @@ pk=&m;   // pk now points to m rather than k
 
 //---Summary of Pointers
 *pk //pointer
-&m  //memory address
+&m  //memory address // without & or * means , the memory value of m
 *pk = &m //pointer pk points to memory m
 *pk=100  // pointer pk puts value 100 into memory m, so now m = 100;
 
