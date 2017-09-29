@@ -15,9 +15,16 @@ int *pk=k; // (create pointers, pk points to k)
   //-explanation                                 
    a pointer pk pointing to k is created , pk stores the address of k , 
    since k  is  initialised to 5, pointer pk whenever called will go to k, and grab whatever k is currently = to;  
-   
-  //-explanation-
-
-  
+  //-explanation-  
 //---create pointers---                            
+
+//---creating memory
+int m=4; // 1 byte is allocated to store integer 4 in m, which uses a new address,
+  //--Memory Diagram 
+  |4|
+  m
+  |5| <- ||                                       
+  k      pk    
+  //--Memory Diagram--  
+//---creating memory---
 
