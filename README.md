@@ -4,7 +4,7 @@ My explanations of the fudenmentals of coding
 
 
 # Pointers
-Pointers are addresses of memories that points to a variable which stores data.
+Pointers are addresses of memories that points to a variable which stores data. \n
 //---create pointers 
 int k=5;
 int *pk=k; // (create pointers, pk points to k)
