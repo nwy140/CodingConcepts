@@ -1,5 +1,5 @@
 # CodingConcepts
-My explanations of the fudenmentals of coding
+My explanations of the fundamentals of coding
 
 
 
