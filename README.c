@@ -32,3 +32,12 @@ pk=&m;   // pk now points to m rather than k
 //---creating memory and changing where pointer is pointing to---
 //---
 
+//---Summary of Pointers
+*pk //pointer
+&m  //memory address
+*pk = &m //pointer pk points to memory m
+*pk=100  // pointer pk puts value 100 into memory m, so now m = 100;
+
+//---Summary of Pointers---
+
+
