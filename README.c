@@ -1,7 +1,6 @@
 # CodingConcepts
 My explanations of the fundamentals of coding -Nwy
-
-
+I no longer bother with this repository , please look at my C++ repositories with comments instead
 
 # Pointers
 Pointers are addresses of memories that points to a variable which stores data. 
